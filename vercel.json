@@ -23,7 +23,7 @@
   "functions": {},
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/dist/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
